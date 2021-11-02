@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367013705738",
+    "project_id": "book-tinder-d5fc1",
+    "storage_bucket": "book-tinder-d5fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367013705738:android:5771fbb4787a47bf4547f3",
+        "android_client_info": {
+          "package_name": "com.example.booktinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367013705738-5jml7qn4pual5cvnr1kr1gpucs0hod60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJokxOMdOJrzXLkE82DOyisThCjgpsk14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367013705738-5jml7qn4pual5cvnr1kr1gpucs0hod60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
